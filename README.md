@@ -4,9 +4,10 @@
 
 # Getting Started
 
-1. Fork this repository [TODO](TODO)
+1. Fork this repository.
 2. Clone the forked app from your github account.
-3. navigate inside the clone repository folder and run following command.
+3. Copy this repository into your repository of `masai-course` organization and push it to a branch named `rm101_assign1`.
+4. navigate inside the clone repository folder and run following command.
    - `npm install` - To install the dependencies
    - `npm start` - To Start running the application.
 
