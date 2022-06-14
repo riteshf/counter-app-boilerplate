@@ -6,10 +6,11 @@
 
 1. Fork this repository.
 2. Clone the forked app from your github account.
-3. Copy this repository into your repository of `masai-course` organization and push it to a branch named `rm101_assign1`.
-4. navigate inside the clone repository folder and run following command.
+3. Copy this repository into your repository of `masai-course` organization, create a folder named `rm101_assign1` in the root of the repo and then copy the repo code in that folder, complete your assignmend and push it to a branch named `rm101_assign1`.
+5. navigate inside the clone repository folder and run following command.
    - `npm install` - To install the dependencies
    - `npm start` - To Start running the application.
+6. Once you're done with your assignment, submit the link to `root` of the repository on LMS.
 
 **Note** - `Make sure you use only the given components and dont create new files and folders as chaging component name, structures might result in giving you zero marks`
 
